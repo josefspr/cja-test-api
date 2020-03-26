@@ -78,42 +78,6 @@
             "copyrights":"Olena Andronatiy"}
             ],
         "tags":["synagogue", "ashkenazi"]
-        }, 
-        {"id": 7582,
-        "title": "Torah ark, Synagogue in Cavaillon",
-        "subtitle":"",
-        "start_date":"1773-00-00",
-        "circa_date":false,
-        "place":
-            {"id":9930,
-            "name":"Cavaillon, Provence, France",
-            "position":"43.837147,5.038520",
-            "zoomlevel":"city",
-            "alt_name":[ ],
-            "events_count":1},
-        "description":"<p>Origin: 	France | Provence | Cavaillon<br><a href=\"https://cja.huji.ac.il/browser.php?mode=set&id=7582\">Link to page in CJA</a><p>",
-        "icon":"https://cja.huji.ac.il/images_db/nli_pics/HUB_20000/000/CJA_20083/deliverable/A022209.jpg",
-        "map_context":"country",
-        "project":2, 
-        "people":[], 
-        "organizations":[], 
-        "media":[
-            {"file":"https://cja.huji.ac.il/images_db/nli_pics/HUB_154000/660/CJA_154773/deliverable/A168058.jpg",
-            "type":"image",
-            "url":"", 
-            "title":"Torah ark, Synagogue in Cavaillon",
-            "source":"The Center for Jewish Art",
-            "source_url":"https://cja.huji.ac.il/",
-            "copyrights":"Katrin Kessler"}, 
-            {"file":"https://cja.huji.ac.il/images_db/nli_pics/HUB_154000/660/CJA_154776/deliverable/A168065.jpg",
-            "type":"image",
-            "url":"", 
-            "title":"Torah ark, Synagogue in Cavaillon",
-            "source":"The Center for Jewish Art",
-            "source_url":"https://cja.huji.ac.il/",
-            "copyrights":"Katrin Kessler"}
-            ],
-        "tags":["synagogue", "ashkenazi", "torah ark"]
         }
     ]
 }
