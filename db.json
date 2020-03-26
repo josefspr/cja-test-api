@@ -42,6 +42,42 @@
             "copyrights":"Center for Jewish Art"}
         ],
         "tags":["synagogue", "ashkenazi"]
+        }, 
+        {"id": 7596,
+        "title": "Great Synagogue in Uman",
+        "subtitle":"",
+        "start_date":"1930-00-00", 
+        "circa_date":true,
+        "place":
+            {"id":15899,
+            "name":"Uman, Cherkas'ka obl., Ukraine",
+            "position":"48.744747,30.232233",
+            "zoomlevel":"city",
+            "alt_name":[ ],
+            "events_count":1},
+        "description":"<p>Origin: Uman | Cherkas'ka obl. | Ukraine<br><a href=\"https://cja.huji.ac.il/browser.php?mode=set&id=7596\">Link to page in CJA</a><p>",
+        "icon":"https://cja.huji.ac.il/images_db/nli_pics/A_407/500/A407876.jpg",
+        "map_context":"country",
+        "project":1, 
+        "people":[], 
+        "organizations":[], 
+        "media":[
+            {"file":"https://cja.huji.ac.il/images_db/nli_pics/A_407/500/A407876.jpg",
+            "type":"image",
+            "url":"", 
+            "title":"Great (Novobazarnaia Choral) Synagogue in Uman",
+            "source":"The Center for Jewish Art",
+            "source_url":"https://cja.huji.ac.il/",
+            "copyrights":"Olena Andronatiy"}, 
+            {"file":"https://cja.huji.ac.il/images_db/nli_pics/A_407/500/A407876.jpg/A407874.jpg",
+            "type":"image",
+            "url":"", 
+            "title":"Great (Novobazarnaia Choral) Synagogue in Uman",
+            "source":"The Center for Jewish Art",
+            "source_url":"https://cja.huji.ac.il/",
+            "copyrights":"Olena Andronatiy"}
+            ],
+        "tags":["synagogue", "ashkenazi"]
         }
     ]
 }
