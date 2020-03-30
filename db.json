@@ -142,7 +142,7 @@
         {"id":1,
         "researchers":["Vladimir Levin"],
         "cover_image":
-        {"file":"https://cja.huji.ac.il/images_db/nli_pics/HUB_154000/660/CJA_154949/deliverable/A170631.jpg",
+        {"file":"https://s3-eu-west-1.amazonaws.com/jewish-cultures-mapped/media/Mount+Scoups+Google+Earth.png",
         "type":"image",
         "url":"",
         "title":"Synagogue in Sighișoara",
@@ -163,7 +163,7 @@
         {"id":2,
         "researchers":["Vladimir Levin"],
         "cover_image":
-        {"file":"https://cja.huji.ac.il/images_db/nli_pics/S_303/0/S303255.jpg",
+        {"file":"https://s3-eu-west-1.amazonaws.com/jewish-cultures-mapped/media/Mount+Scoups+Google+Earth.png",
         "type":"image",
         "url":"",
         "title":"Keter | Torah Crown",
